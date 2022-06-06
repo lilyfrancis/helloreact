@@ -1,4 +1,4 @@
-# hello-react-rails
+# helloreact
 This is a simple project that where I connect react and ruby on rails to diplay random greetings
 
 ## Built With
